@@ -1,0 +1,18 @@
+Simulador interactivo
+
+
+
+
+Apuntes personales:
+
+// store para niños del cerro
+// Carrito de compras funcional que calcule el monto total
+// de los productos seleccionados
+
+Pregunta telón: Ingrese polera si desea agregar poleras al carrito de compra 
+                    Ingrese bolso de mano si desea agregar bolso(s) de mano al carrito de compra
+                    Ingrese finalizar si desea recibir el total de su compra y pagar
+
+            si eligió polera  -> ¿Color negro o blanco? -> ¿que talla? -> ¿cuantas poleras? --> Volver a pregunta telón
+            Si eligio bolso -> ¿cuantos bolsos? -> Volver a pregunta telón
+            si eligio finalizar -> Señalar elementos que incluye la compra, el total en pesos chilenos y finalizar programa
